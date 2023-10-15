@@ -10,7 +10,7 @@
         </address>
     </div>
 
-    <div class="container" style="background-image: linear-gradient(to right, #190A3E , #391399,#BCB1D6);">
+    <div class="container" style="background-image: linear-gradient(to right, #BCB1D6, #391399,#190A3E);">
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Email address</label>
             <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
